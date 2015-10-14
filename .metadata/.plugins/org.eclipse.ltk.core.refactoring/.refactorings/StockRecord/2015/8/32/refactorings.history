@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 packages to &apos;StockExchangeREST/src&apos;&#x0D;&#x0A;- Original project: &apos;StockRecord&apos;&#x0D;&#x0A;- Destination element: &apos;StockExchangeREST/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     StockRecord/src/net.mv.service&#x0D;&#x0A;     StockRecord/src/net.mv.hibernate&#x0D;&#x0A;     StockRecord/src/net.mv.domain&#x0D;&#x0A;     StockRecord/src/net.mv.dao" description="Copy packages" destination="=StockExchangeREST/src" element1="/src&lt;net.mv.service" element2="/src&lt;net.mv.hibernate" element3="/src&lt;net.mv.domain" element4="/src&lt;net.mv.dao" flags="589830" fragments="4" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1438897342476" version="1.0"/>
+</session>
